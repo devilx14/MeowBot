@@ -25,7 +25,7 @@
 
  <h1 align="center">💫String Session💫</h1>
 
- [![Run on Repl.it](https://repl.it/badge/github/kaal0408/Lucifer-X&theme=midnight-purple)](https://replit.com/@Technicalguruji/Telethon-64-bit#main.py)
+ [![Run on Repl.it](https://repl.it/badge/github/devilx14/Lucifer-X&theme=midnight-purple)](https://replit.com/@Technicalguruji/Telethon-64-bit#main.py)
 
 
 
